@@ -2,6 +2,24 @@
 
 A modern e-commerce platform built with React frontend and Node.js backend, featuring a comprehensive gadget store with categories, products, cart functionality, and order management.
 
+## 🌐 Live Demo
+
+**🔗 Live Site**: [gadgetnests.netlify.app](https://gadgetnests.netlify.app)
+
+**📱 Screenshots**
+
+### Desktop View
+![GadgetNest Desktop](https://i.imgur.com/example1.png)
+
+### Mobile View
+![GadgetNest Mobile](https://i.imgur.com/example2.png)
+
+### Product Catalog
+![GadgetNest Products](https://i.imgur.com/example3.png)
+
+### Shopping Cart
+![GadgetNest Cart](https://i.imgur.com/example4.png)
+
 ## 🚀 Features
 
 - **Modern UI/UX**: Beautiful and responsive design with modern styling
@@ -155,6 +173,24 @@ VITE_API_URL=http://localhost:1337
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
+
+## 🚀 Deployment
+
+### Frontend (Netlify)
+The frontend is deployed on Netlify and is live at: [gadgetnests.netlify.app](https://gadgetnests.netlify.app)
+
+**Deployment Configuration:**
+- **Build Command**: `npm run build`
+- **Publish Directory**: `dist`
+- **Node Version**: 18
+- **Framework**: Vite + React
+
+### Backend (Future Deployment)
+The backend can be deployed on platforms like:
+- **Heroku**
+- **Railway**
+- **Render**
+- **DigitalOcean App Platform**
 
 ## 🤝 Contributing
 
